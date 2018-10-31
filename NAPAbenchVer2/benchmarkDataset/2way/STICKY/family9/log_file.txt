@@ -1,0 +1,9 @@
+Generated Network Family Information
+-------------------------------------
+Number of Generated Networks:	2
+Growth Model:	STICKY
+Growth Parameters:	
+List of Generated Networks:
+Name	Letter	Size
+A		A		3000
+B		B		4000

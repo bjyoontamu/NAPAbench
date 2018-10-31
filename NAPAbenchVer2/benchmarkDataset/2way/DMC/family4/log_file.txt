@@ -1,0 +1,10 @@
+Generated Network Family Information
+-------------------------------------
+Number of Generated Networks:	2
+Growth Model:	DMC
+Growth Parameters:	q_con=0.150000	 q_mod=0.400000	
+
+List of Generated Networks:
+Name	Letter	Size
+A		A		3000
+B		B		4000
