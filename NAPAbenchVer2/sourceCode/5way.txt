@@ -1,0 +1,13 @@
+// Format Parent->Child:NumberOfProteinsInTheChildNode
+// Only leaf nodes will be generated as output
+// S is the ancestral node
+// (A:250,(B:250,(C:250,(D:250,E:250):250):250):250)
+S->A:1250
+S->K:1250
+K->B:1500
+K->L:1500
+L->C:1750
+L->M:1750
+M->D:2000
+M->E:2000
+
