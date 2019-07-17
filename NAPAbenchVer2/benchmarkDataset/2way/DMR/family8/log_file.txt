@@ -1,10 +1,11 @@
 Generated Network Family Information
 -------------------------------------
 Number of Generated Networks:	2
+Ancestral network size:	2000
 Growth Model:	DMR
-Growth Parameters:	q_new=0.200000	 q_del=0.450000	
+Growth Parameters:	q_new=0.850000	 q_del=0.400000	
 
 List of Generated Networks:
-Name	Letter	Size
-A		A		3000
-B		B		4000
+Name	Letter	Size	Interactions
+A		A		3000	31971
+B		B		4000	48253

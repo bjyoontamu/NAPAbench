@@ -1,15 +1,17 @@
 Generated Network Family Information
 -------------------------------------
 Number of Generated Networks:	8
+Ancestral network size:	700
 Growth Model:	STICKY
-Growth Parameters:	
+Growth Parameters:	s_del=0.550000	 s_f=50.000000	
+
 List of Generated Networks:
-Name	Letter	Size
-A		A		1000
-B		B		1000
-C		C		1000
-D		D		1000
-E		E		1000
-F		F		1000
-G		G		1000
-H		H		1000
+Name	Letter	Size	Interactions
+A		A		1000	4747
+B		B		1000	4574
+C		C		1000	4614
+D		D		1000	4514
+E		E		1000	4701
+F		F		1000	4855
+G		G		1000	4363
+H		H		1000	5005

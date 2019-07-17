@@ -62,7 +62,7 @@ guidata(hObject, handles);
 % Define default parameter
 params.treeFileName = {'2way.txt', '5way.txt', '8way.txt'};
 params.SS = [2000, 1000, 700];
-params.IP = [0.15, 0.4; 0.2, 0.45; 4, 0; 0.75, 50];
+params.IP = [0.5, 0.4; 0.85, 0.4; 4, 0; 0.55, 50];
 params.IPLabel = {{'q_con', 'q_del'}, {'q_new', 'q_del'}, {'delta'}, {'s_del', 's_f'}};
 setappdata(hObject, 'parameters', params);
 
@@ -142,18 +142,18 @@ function GenerateNetworkFamily(iteration, M, tree_file, Na, growth_model, out_pa
 %Default parameters
 %--------------------------------------------------------------------------
 % DMC parameters
-q_con = 0.15;
+q_con = 0.5;
 q_mod = 0.4;
 
 % DMR parameters
-q_new= 0.2 ;
-q_del = 0.45;
+q_new= 0.85;
+q_del = 0.4;
 
 % CG parameters
 delta=4;
 
 % STICKY parameters
-s_del = 0.75;
+s_del = 0.55;
 s_f = 50;
 
 % Gamma Distributions parameters

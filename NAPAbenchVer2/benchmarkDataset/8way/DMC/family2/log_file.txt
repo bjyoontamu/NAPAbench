@@ -1,16 +1,17 @@
 Generated Network Family Information
 -------------------------------------
 Number of Generated Networks:	8
+Ancestral network size:	700
 Growth Model:	DMC
-Growth Parameters:	q_con=0.150000	 q_mod=0.400000	
+Growth Parameters:	q_con=0.500000	 q_mod=0.400000	
 
 List of Generated Networks:
-Name	Letter	Size
-A		A		1000
-B		B		1000
-C		C		1000
-D		D		1000
-E		E		1000
-F		F		1000
-G		G		1000
-H		H		1000
+Name	Letter	Size	Interactions
+A		A		1000	6925
+B		B		1000	6986
+C		C		1000	6811
+D		D		1000	7134
+E		E		1000	7089
+F		F		1000	7036
+G		G		1000	6988
+H		H		1000	6997

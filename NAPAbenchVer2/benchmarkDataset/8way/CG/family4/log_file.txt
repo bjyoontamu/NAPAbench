@@ -1,16 +1,17 @@
 Generated Network Family Information
 -------------------------------------
 Number of Generated Networks:	8
+Ancestral network size:	700
 Growth Model:	CG
 Growth Parameters:	delta=4	
 
 List of Generated Networks:
-Name	Letter	Size
-A		A		1000
-B		B		1000
-C		C		1000
-D		D		1000
-E		E		1000
-F		F		1000
-G		G		1000
-H		H		1000
+Name	Letter	Size	Interactions
+A		A		1000	3986
+B		B		1000	3986
+C		C		1000	3986
+D		D		1000	3986
+E		E		1000	3986
+F		F		1000	3986
+G		G		1000	3986
+H		H		1000	3986
