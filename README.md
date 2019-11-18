@@ -1,8 +1,8 @@
 ------------------------------------------------------------------------
-NAPAbench Ver.2 : Network Alignment Performance Assessment benchmark
+NAPAbench 2 : Network Alignment Performance Assessment benchmark
 ------------------------------------------------------------------------
 
-Network synthesis models in NAPAbench provide effective means to generate synthetic network families that can be used to rigorously assess the performance of network alignment algorithms. In recent years, the protein-protein-interaction (PPI) databases have been significantly updated, hence the network synthesis models in NAPAbench need to be updated to be able to create synthetic network families whose characteristics are close to those of real PPI networks. In NAPAbench Ver.2, we have updated all parameters so that the our benchmark dataset NAPAbench Ver. 2 can mimic the latest real PPI networks. 
+Network synthesis models in NAPAbench provide effective means to generate synthetic network families that can be used to rigorously assess the performance of network alignment algorithms. In recent years, the protein-protein-interaction (PPI) databases have been significantly updated, hence the network synthesis models in NAPAbench need to be updated to be able to create synthetic network families whose characteristics are close to those of real PPI networks. In NAPAbench 2, we have updated all parameters so that the our benchmark dataset NAPAbench 2 can mimic the latest real PPI networks. 
 
 NAPAbench has been made freely available as PUBLIC DOMAIN
 software and hence is not subject to copyright in the  United
@@ -16,9 +16,9 @@ loss due to reliance on the program.
 
 NAPAbench consists of three suites of datasets:
 
-2way(pairwise) alignment dataset
-5way alignment dataset
-8way alignment dataset
+2-way(pairwise) alignment dataset
+5-way alignment dataset
+8-way alignment dataset
 
 
 Each each suite has three subcategories: DMR, DMC, CG, STICKY which are named 
